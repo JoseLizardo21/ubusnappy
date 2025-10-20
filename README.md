@@ -313,6 +313,8 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software...
 ```
 
+---
+
 ## Contact & Support
 
 - **Issues**: [GitHub Issues](https://github.com/JoseLizardo21/ubusnappy/issues)
