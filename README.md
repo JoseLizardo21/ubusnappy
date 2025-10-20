@@ -278,68 +278,6 @@ make
 ./ubusnappy
 ```
 
-### Project Structure
-
-```
-ubusnappy/
-├── main.cpp           # Main application source
-├── Makefile          # Build configuration
-├── README.md         # This file
-├── output/           # Screenshot output directory
-└── .gitignore       # Git ignore rules
-```
-
-### Code Architecture
-
-- **GTK3 Event Loop**: Manages UI interactions
-- **Capture Abstraction**: Automatically selects backend
-- **GStreamer Integration**: Professional video pipeline for X11
-- **System Integration**: Native screenshot APIs for Wayland
-- **Error Handling**: Comprehensive error messages and fallbacks
-
----
-
-## Why GStreamer?
-
-GStreamer was chosen for several strategic reasons:
-
-| Advantage | Benefit |
-|-----------|---------|
-| **Industry Standard** | Used by professional tools like OBS Studio |
-| **Cross-Platform** | Works on X11, potential for Wayland integration |
-| **Extensible** | Easy to add video recording, effects, filters |
-| **Efficient** | Direct memory capture, no temporary files |
-| **Well-Maintained** | Active development and community support |
-| **Format Flexibility** | Supports multiple video/image formats |
-
----
-
-## Roadmap
-
-Future enhancements under consideration:
-
-- [ ] **Region Selection**: Capture specific screen areas
-- [ ] **Video Recording**: Record screen activity
-- [ ] **Annotations**: Draw on screenshots before saving
-- [ ] **Cloud Upload**: Direct sharing to cloud services
-- [ ] **Keyboard Shortcuts**: Global hotkeys for quick capture
-- [ ] **Multi-Monitor**: Support for selecting which display to capture
-- [ ] **Delayed Capture**: Countdown timer before screenshot
-- [ ] **Image Editor**: Basic editing tools (crop, resize, annotate)
-
----
-
-## Performance
-
-Typical performance metrics on modern hardware:
-
-- **Capture Time**: < 500ms
-- **Memory Usage**: ~50 MB
-- **CPU Usage**: < 5% during capture
-- **Disk I/O**: Minimal (only when saving)
-
----
-
 ## Contributing
 
 Contributions are welcome! Please follow these guidelines:
@@ -391,8 +329,8 @@ Inspired by tools like Flameshot, Spectacle, and GNOME Screenshot.
 
 ## Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ubusnappy/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ubusnappy/discussions)
+- **Issues**: [GitHub Issues](https://github.com/JoseLizardo21/ubusnappy/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/JoseLizardo21/ubusnappy/discussions)
 
 ---
 
