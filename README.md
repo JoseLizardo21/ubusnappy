@@ -19,15 +19,15 @@ UbuSnappy is a professional screenshot capture application built with GTK3 and G
 
 ### Key Features
 
-- **🖥️ Universal Compatibility**: Works seamlessly on both Wayland and X11
-- **🎯 Smart Detection**: Automatically chooses the optimal capture method
+- **Universal Compatibility**: Works seamlessly on both Wayland and X11
+- **Smart Detection**: Automatically chooses the optimal capture method
 - **⚡ Multiple Backends**:
   - **Wayland**: Native GNOME Screenshot API
   - **X11**: GStreamer with XImageSrc pipeline
-- **🖼️ Live Preview**: Real-time preview of captured screenshots
-- **💾 Easy Export**: Save captures as PNG with automatic timestamping
-- **🎨 Modern UI**: Clean, intuitive GTK3 interface
-- **🔧 Professional Architecture**: Built on industry-standard frameworks
+- **Live Preview**: Real-time preview of captured screenshots
+- **Easy Export**: Save captures as PNG with automatic timestamping
+- **Modern UI**: Clean, intuitive GTK3 interface
+- **Professional Architecture**: Built on industry-standard frameworks
 
 ---
 
