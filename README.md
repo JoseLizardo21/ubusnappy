@@ -265,7 +265,7 @@ If manual pipeline works but the app doesn't, file an issue on GitHub.
 
 ```bash
 # Clone the repository (if from git)
-git clone https://github.com/yourusername/ubusnappy.git
+git clone https://github.com/JoseLizardo21/ubusnappy.git
 cd ubusnappy
 
 # Install dependencies
