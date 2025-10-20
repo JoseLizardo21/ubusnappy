@@ -40,24 +40,6 @@ UbuSnappy is a professional screenshot capture application built with GTK3 and G
 | **GNOME Screenshot** | Native capture API for Wayland |
 | **GdkPixbuf** | Image processing and manipulation |
 
----
-
-## Screenshots
-
-> Capture, preview, and save screenshots with an elegant interface
-
-```
-┌─────────────────────────────────────────┐
-│  UbuSnappy - Screenshot Capture         │
-├─────────────────────────────────────────┤
-│                                         │
-│      [Screenshot Preview Area]          │
-│         800x600 pixels                  │
-│                                         │
-├─────────────────────────────────────────┤
-│  [📸 Take Screenshot]  [💾 Save]       │
-└─────────────────────────────────────────┘
-```
 
 ---
 
