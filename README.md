@@ -102,35 +102,8 @@ make
 
 # Or via Makefile
 make run
-```
-
-### Interface Guide
-
-When you launch UbuSnappy, you'll see:
 
 ```
-=== UbuSnappy - Screenshot Capture ===
-Environment: Wayland (or X11)
-Capture Engine: GStreamer + XImageSrc
-========================================
-```
-
-#### Taking a Screenshot
-
-1. **Click** the `📸 Take Screenshot` button
-2. The window minimizes automatically (1.5 seconds)
-3. Screenshot is captured and displayed in the preview area
-4. Window reappears with your screenshot
-
-#### Saving Screenshots
-
-1. **Click** the `💾 Save` button
-2. A dialog confirms the save location
-3. Screenshots are saved to `output/screenshot_YYYYMMDD_HHMMSS.png`
-
-**Example filename**: `output/screenshot_20251013_235930.png`
-
----
 
 ## Architecture
 
