@@ -313,20 +313,6 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software...
 ```
 
----
-
-## Acknowledgments
-
-Built with:
-- [GTK+](https://www.gtk.org/) - The GIMP Toolkit
-- [GStreamer](https://gstreamer.freedesktop.org/) - Multimedia framework
-- [GNOME](https://www.gnome.org/) - Desktop environment
-- [PipeWire](https://pipewire.org/) - Modern multimedia server
-
-Inspired by tools like Flameshot, Spectacle, and GNOME Screenshot.
-
----
-
 ## Contact & Support
 
 - **Issues**: [GitHub Issues](https://github.com/JoseLizardo21/ubusnappy/issues)
