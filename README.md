@@ -89,44 +89,6 @@ make
 
 # Run
 ./ubusnappy
-```
-
-### Manual Installation
-
-If you prefer manual control:
-
-```bash
-# Update package lists
-sudo apt-get update
-
-# Install core dependencies
-sudo apt-get install -y \
-    libgtk-3-dev \
-    build-essential \
-    pkg-config \
-    libgstreamer1.0-dev \
-    libgstreamer-plugins-base1.0-dev \
-    gstreamer1.0-tools \
-    gstreamer1.0-plugins-base \
-    gstreamer1.0-plugins-good \
-    gstreamer1.0-plugins-bad
-
-# For Wayland users (check with: echo $XDG_SESSION_TYPE)
-sudo apt-get install -y \
-    gnome-screenshot \
-    pipewire \
-    gstreamer1.0-pipewire \
-    wireplumber
-
-# For X11 users
-# (gstreamer1.0-plugins-good is already installed above)
-
-# Compile
-make
-
-# Run
-./ubusnappy
-```
 
 ---
 
